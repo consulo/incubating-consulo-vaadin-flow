@@ -1,0 +1,16 @@
+<consulo-plugin url="https://github.com/consulo/consulo-simple-plugin-template">
+	<id>consulo.vaadin.flow</id>
+	<name>Vaadin Flow</name>
+	<experimental>true</experimental>
+	<localize>consulo.vaadin.flow.VaadinFlowLocalize</localize>
+
+	<depends>consulo.java</depends>
+	<depends>consulo.javascript</depends>
+	<depends>consulo.nodejs</depends>
+	<depends>com.intellij.xml</depends>
+	<depends>org.jetbrains.idea.maven</depends>
+
+	<tags>
+		<tag>web.framework</tag>
+	</tags>
+</consulo-plugin>
