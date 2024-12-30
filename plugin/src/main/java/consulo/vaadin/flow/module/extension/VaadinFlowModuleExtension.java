@@ -8,9 +8,8 @@ import consulo.language.version.LanguageVersion;
 import consulo.module.content.layer.ModuleRootLayer;
 import consulo.module.content.layer.extension.ModuleExtensionBase;
 import consulo.module.extension.ModuleInheritableNamedPointer;
+import jakarta.annotation.Nonnull;
 import jakarta.annotation.Nullable;
-
-import javax.annotation.Nonnull;
 
 /**
  * @author VISTALL
